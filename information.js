@@ -4,6 +4,5 @@ const user = {
 }
 
 module.exports = {
-    name : "Camille",
-    campus : "Lille",
+    user : user
 }
